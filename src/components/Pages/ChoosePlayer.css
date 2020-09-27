@@ -1,0 +1,30 @@
+.styleicon {
+  display: flex;
+  justify-content: space-evenly;
+  margin-top: 13%;
+}
+
+.radiostyle {
+  display: flex;
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.xman {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+
+.formstyles {
+  display: flex;
+
+  margin-left: 10px;
+  margin-right: 10px;
+  justify-content: space-evenly;
+}
+
+.radio {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+}
